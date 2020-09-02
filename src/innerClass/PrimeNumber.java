@@ -27,6 +27,7 @@ public class PrimeNumber {
 		System.out.println("Enter the Number");
 		int n = s.nextInt();
 		System.out.println(p.isPrime(n));
+		//program complete
 
 	}
 }
